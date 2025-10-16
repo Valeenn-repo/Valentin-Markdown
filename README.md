@@ -339,7 +339,7 @@ Ya sea que vengas por el arte, la comida, la arquitectura o simplemente para dis
 
 **Nota química:** La fórmula del mar Mediterráneo es H~2~O + sal + sol = ¡felicidad! 🌊☀️
 
-**Nota matemática:** La altura de la Sagrada Família (172.5m) es exactamente 1 metro menos que el Montjuïc, ya que Gaudí creía que la obra humana no debía superar la obra divina^[2]^.
+**Nota matemática:** La altura de la Sagrada Família (172.5m) es exactamente 1 metro menos que el Montjuïc, ya que Gaudí creía que la obra humana no debía superar la obra divina.
 
 ![Descripción](./images/PNG.png)
 
