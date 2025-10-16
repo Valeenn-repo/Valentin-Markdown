@@ -15,8 +15,6 @@
 
 ## Introducción
 
-[⬆️ Volver al índice](#-índice)
-
 **Barcelona** es una ciudad *vibrante* y ***cosmopolita*** situada en la costa mediterránea de España. Conocida por su arquitectura modernista, playas urbanas y rica cultura catalana, es uno de los destinos turísticos más populares de Europa 🇪🇸.
 
 La ciudad fue fundada como colonia romana llamada *Barcino* en el siglo I a.C.[^1] y ha evolucionado hasta convertirse en la segunda ciudad más poblada de España, con aproximadamente 1.6 millones de habitantes.
