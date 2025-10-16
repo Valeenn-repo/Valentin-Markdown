@@ -335,7 +335,6 @@ Ya sea que vengas por el arte, la comida, la arquitectura o simplemente para dis
 
 ### Créditos
 
-Documento creado con ❤️ para AE03  
 Última actualización: Octubre 2025
 
 **Nota química:** La fórmula del mar Mediterráneo es H~2~O + sal + sol = ¡felicidad! 🌊☀️
