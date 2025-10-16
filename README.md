@@ -32,7 +32,7 @@ La ciudad fue fundada como colonia romana llamada *Barcino* en el siglo I a.C.[^
 
 ### Arquitectura de Gaudí
 
-Barcelona es famosa por las obras del arquitecto Antoni Gaudí[^2], declaradas **Patrimonio de la Humanidad** por la UNESCO.
+>Barcelona es famosa por las obras del arquitecto Antoni Gaudí[^2], declaradas >**Patrimonio de la Humanidad** por la UNESCO.
 
 #### La Sagrada Familia
 
