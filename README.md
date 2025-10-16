@@ -1,6 +1,6 @@
 # 🌟 Guía de Viaje: Barcelona
 
-<!-- Este es un comentario en Markdown: README creado como proyecto educativo -->
+<!-- Comentario en Markdown: README creado como proyecto educativo -->
 
 ## 📋 Índice
 
