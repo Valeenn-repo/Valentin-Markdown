@@ -324,9 +324,13 @@ Recursos útiles para planificar tu viaje:
 
 ## Conclusión
 
-Barcelona es una ciudad que combina historia, cultura, gastronomía y vida mediterránea como ninguna otra. Desde la arquitectura modernista de Gaudí hasta las animadas playas de la Barceloneta, pasando por el encanto medieval del Barrio Gótico, cada rincón de la ciudad ofrece algo especial.
+Barcelona es una ciudad que combina historia, cultura, gastronomía y vida\
+mediterránea como ninguna otra. Desde la arquitectura modernista de Gaudí\
+hasta las animadas playas de la Barceloneta, pasando por el encanto medieval\
+del Barrio Gótico, cada rincón de la ciudad ofrece algo especial.
 
-Ya sea que vengas por el arte, la comida, la arquitectura o simplemente para disfrutar del ambiente mediterráneo, Barcelona ***nunca decepciona*** &#128522;.
+Ya sea que vengas por el arte, la comida, la arquitectura o simplemente para\
+disfrutar del ambiente mediterráneo, Barcelona ***nunca decepciona*** &#128522;.
 
 **¡Bienvenidos a Barcelona! o como dicen los catalanes: *Benvinguts a Barcelona!*** &#127881;
 
