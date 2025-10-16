@@ -342,6 +342,8 @@ Documento creado con ❤️ para AE03
 
 **Nota matemática:** La altura de la Sagrada Família (172.5m) es exactamente 1 metro menos que el Montjuïc, ya que Gaudí creía que la obra humana no debía superar la obra divina^[2]^.
 
+![Descripción](./images/PNG.png)
+
 ---
 
 [⬆️ Volver al índice](#-índice)
