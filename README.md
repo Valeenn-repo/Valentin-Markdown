@@ -87,7 +87,7 @@ La cocina catalana combina tradición mediterránea con influencias modernas. Aq
 ### Platos Típicos
 
 | Plato | Descripción | Precio Aproximado |
-|:------|:------------|------------------:|
+|:------|:------------:|------------------:|
 | Paella | Arroz con mariscos o carne | 15€ - 25€ |
 | Pan con Tomate | Pan tostado con tomate, aceite y sal | 3€ - 5€ |
 | Crema Catalana | Postre similar a la crème brûlée | 4€ - 6€ |
