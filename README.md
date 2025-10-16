@@ -102,7 +102,7 @@ Para disfrutar de la auténtica cocina catalana, visita:
 - **Cal Pep** - Mariscos frescos del Mediterráneo 🦐
 - *Els Quatre Gats* - Histórico café modernista
 
-[cerveceria]: https://www.cerveceriacatalana.com/
+[cerveceria]: https://www.instagram.com/cerveceria_catalana/
 
 > [!WARNING]
 > Evita los restaurantes en Las Ramblas, suelen ser trampas para turistas con precios elevados y calidad mediocre.
