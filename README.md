@@ -1,8 +1,8 @@
-# 🌟 Guía de Viaje: Barcelona
+# &#127775; Guía de Viaje: Barcelona
 
 <!-- comentario en Markdown: README creado como proyecto educativo -->
 
-## 📋 Índice
+## &#128203; Índice
 
 1. [Introducción](#introducción)
 2. [Lugares de Interés](#lugares-de-interés)
@@ -28,7 +28,7 @@ La ciudad fue fundada como colonia romana llamada *Barcino* en el siglo I a.C.[^
 
 ## Lugares de Interés
 
-[⬆️ Volver al índice](#-índice)
+[&#11014;&#65039; Volver al índice](#-índice)
 
 ### Arquitectura de Gaudí
 
@@ -47,7 +47,7 @@ La **Sagrada Família** es el símbolo más icónico de Barcelona. Esta basílic
 
 #### Otros lugares imprescindibles
 
-1. **Park Güell** 🏞️
+1. **Park Güell** &#127966;&#65039;
    - Parque público con estructuras modernistas
    - Vistas panorámicas de la ciudad
    - Precio: 10€ (entrada general)
@@ -69,7 +69,7 @@ La **Sagrada Família** es el símbolo más icónico de Barcelona. Esta basílic
   * Estatuas vivientes
   * Tiendas y cafeterías
 * **Barrio Gótico** - Centro histórico medieval
-* **Playa de la Barceloneta** 🏖️ - Playa urbana con ambiente animado
+* **Playa de la Barceloneta** &#127958;&#65039; - Playa urbana con ambiente animado
 
 > [!TIP]
 > Compra las entradas online con antelación para evitar largas colas en los monumentos principales.
@@ -78,7 +78,7 @@ La **Sagrada Família** es el símbolo más icónico de Barcelona. Esta basílic
 
 ## Gastronomía
 
-[⬆️ Volver al índice](#-índice)
+[&#11014;&#65039; Volver al índice](#-índice)
 
 La cocina catalana combina tradición mediterránea con influencias modernas. Aquí te presentamos los platos típicos que ***no puedes dejar de probar***:
 
@@ -97,7 +97,7 @@ Para disfrutar de la auténtica cocina catalana, visita:
 
 - [Cervecería Catalana][cerveceria] - Excelentes tapas
 - [Can Culleretes](https://www.culleretes.com/) - Restaurante más antiguo de Barcelona (desde 1786)
-- **Cal Pep** - Mariscos frescos del Mediterráneo 🦐
+- **Cal Pep** - Mariscos frescos del Mediterráneo &#129424;
 - *Els Quatre Gats* - Histórico café modernista
 
 [cerveceria]: https://www.instagram.com/cerveceria_catalana/
@@ -144,11 +144,11 @@ preparar_pa_amb_tomaquet()
 
 ## Transporte
 
-[⬆️ Volver al índice](#-índice)
+[&#11014;&#65039; Volver al índice](#-índice)
 
 Barcelona cuenta con una **excelente red de transporte público** que facilita el desplazamiento por la ciudad.
 
-### Metro 🚇
+### Metro &#128647;
 
 El metro de Barcelona tiene 12 líneas operativas que conectan toda la ciudad.
 
@@ -195,7 +195,7 @@ console.log(`Barcelona tiene ${transporteBarcelona.metro.lineas} líneas de metr
 
 ## Consejos Prácticos
 
-[⬆️ Volver al índice](#-índice)
+[&#11014;&#65039; Volver al índice](#-índice)
 
 ### Mejor Época para Visitar
 
@@ -233,7 +233,7 @@ Quant costa? - ¿Cuánto cuesta?
 No parlo català - No hablo catalán
 ```
 
-### Aplicaciones Recomendadas 📱
+### Aplicaciones Recomendadas &#128241;
 
 1. **TMB App** - Transporte público de Barcelona
 2. **Citymapper** - Rutas y horarios
@@ -244,13 +244,13 @@ No parlo català - No hablo catalán
 
 ## Información Adicional
 
-[⬆️ Volver al índice](#-índice)
+[&#11014;&#65039; Volver al índice](#-índice)
 
 ### Festividades Importantes
 
 Barcelona celebra numerosas festividades a lo largo del año:
 
-- **Sant Jordi** (23 de abril) 🌹📚 - Día del libro y la rosa
+- **Sant Jordi** (23 de abril) &#127801;&#128218; - Día del libro y la rosa
 - **La Mercè** (24 de septiembre) - Fiesta mayor de Barcelona
 - **Verbena de Sant Joan** (23 de junio) - Celebración del solsticio de verano
 - **Navidad** - Mercados navideños y Fira de Santa Llúcia
@@ -292,7 +292,7 @@ Donde:
 > [!NOTE]
 > Los precios pueden variar significativamente según la temporada y el tipo de alojamiento elegido.
 
-### Datos Curiosos 🤔
+### Datos Curiosos &#129300;
 
 - Barcelona tiene más de **4.5 km de playas** urbanas
 - El Camp Nou tiene capacidad para **99,354 espectadores**, siendo el estadio más grande de Europa
@@ -311,7 +311,7 @@ Recursos útiles para planificar tu viaje:
 
 [tiempo]: https://www.aemet.es/es/eltiempo/prediccion/municipios/barcelona-id08019
 
-### Contactos de Emergencia ☎️
+### Contactos de Emergencia &#9742;&#65039;
 
 - **Emergencias:** 112
 - **Policía:** 091
@@ -325,9 +325,9 @@ Recursos útiles para planificar tu viaje:
 
 Barcelona es una ciudad que combina historia, cultura, gastronomía y vida mediterránea como ninguna otra. Desde la arquitectura modernista de Gaudí hasta las animadas playas de la Barceloneta, pasando por el encanto medieval del Barrio Gótico, cada rincón de la ciudad ofrece algo especial.
 
-Ya sea que vengas por el arte, la comida, la arquitectura o simplemente para disfrutar del ambiente mediterráneo, Barcelona ***nunca decepciona*** 😊.
+Ya sea que vengas por el arte, la comida, la arquitectura o simplemente para disfrutar del ambiente mediterráneo, Barcelona ***nunca decepciona*** &#128522;.
 
-**¡Bienvenidos a Barcelona! o como dicen los catalanes: *Benvinguts a Barcelona!*** 🎉
+**¡Bienvenidos a Barcelona! o como dicen los catalanes: *Benvinguts a Barcelona!*** &#127881;
 
 ---
 
@@ -335,7 +335,7 @@ Ya sea que vengas por el arte, la comida, la arquitectura o simplemente para dis
 
 Última actualización: Octubre 2025
 
-**Nota química:** La fórmula del mar Mediterráneo es H~2~O + sal + sol = ¡felicidad! 🌊☀️
+**Nota química:** La fórmula del mar Mediterráneo es H~2~O + sal + sol = ¡felicidad! &#127754;&#9728;&#65039;
 
 **Nota matemática:** La altura de la Sagrada Família (172.5m) es exactamente 1 metro menos que el Montjuïc, ya que Gaudí creía que la obra humana no debía superar la obra divina.
 
@@ -343,7 +343,7 @@ Ya sea que vengas por el arte, la comida, la arquitectura o simplemente para dis
 
 ---
 
-[⬆️ Volver al índice](#-índice)
+[&#11014;&#65039; Volver al índice](#-índice)
 
 ---
 
