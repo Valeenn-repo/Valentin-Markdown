@@ -1,6 +1,6 @@
 # 🌟 Guía de Viaje: Barcelona
 
-<!-- Comentario en Markdown: README creado como proyecto educativo -->
+<!-- comentario en Markdown: README creado como proyecto educativo -->
 
 ## 📋 Índice
 
@@ -19,9 +19,8 @@
 
 La ciudad fue fundada como colonia romana llamada *Barcino* en el siglo I a.C.[^1] y ha evolucionado hasta convertirse en la segunda ciudad más poblada de España, con aproximadamente 1.6 millones de habitantes.
 
-<div class="alert alert-block alert-info">
-  Barcelona es la capital de Cataluña y tiene dos idiomas oficiales: catalán y español.
-</div>
+> [!NOTE]
+> Barcelona es la capital de Cataluña y tiene dos idiomas oficiales: catalán y español.
 
 <!-- Comentario: La siguiente sección describe los principales lugares turísticos -->
 
